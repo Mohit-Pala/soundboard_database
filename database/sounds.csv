@@ -1,2 +1,2 @@
-Id, UserId, SoundName, Description, SoundPath, Time
-1, 1, Quandale Dingle, "Hey guys quandale dingle here", storage_bucket/quandale_dingle.mp3, 0:10
+Id," UserId"," SoundName"," Description"," SoundPath"," Time"
+1," 1"," Quandale Dingle"," ""Hey guys quandale dingle here"""," storage_bucket/quandale_dingle.mp3"," 0:10"
